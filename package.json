@@ -1,5 +1,5 @@
 {
-    "name": "simple_geoip",
+    "name": "simple_geo",
     "version": "0.0.1",
     "description": "Provide Geo Services through simple http method",
     "keywords": ["maxmind", "geo", "mmdb"],
