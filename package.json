@@ -1,0 +1,26 @@
+{
+    "name": "simple_geoip",
+    "version": "0.0.1",
+    "description": "Provide Geo Services through simple http method",
+    "keywords": ["maxmind", "geo", "mmdb"],
+    "homepage": "https://github.com/brucexin/simple_geo",
+    "bugs": {
+        "url": "https://github.com/brucexin/simple_geo/issues",
+        "email": "bruce.xin@gmail.com"
+    },
+    "license": "MPL-2.0",
+    "author": "Bruce Xin <bruce.xin@gmail.com> (https://github.com/brucexin)",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/brucexin/simple_geo"
+    },
+    "dependencies": {
+        "colors": "",
+        "optimist": "",
+        "portfinder": "",
+        "opener": "",
+        "restify": "",
+        "reader": ""
+    },
+    "main": "server.js"
+}
