@@ -1,3 +1,5 @@
+//base on https://github.com/nodeapps/http-server
+
 var colors = require('colors'),
     argv = require('optimist').argv,
     portfinder = require('portfinder'),
