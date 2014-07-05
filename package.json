@@ -1,6 +1,6 @@
 {
     "name": "simple_geo",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Provide Geo Services through simple http method",
     "keywords": ["maxmind", "geo", "mmdb"],
     "homepage": "https://github.com/brucexin/simple_geo",
