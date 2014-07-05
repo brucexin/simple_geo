@@ -20,7 +20,8 @@
         "portfinder": "",
         "opener": "",
         "restify": "",
-        "reader": ""
+        "reader": "",
+        "maxmind-db-reader": ""
     },
     "main": "server.js"
 }
